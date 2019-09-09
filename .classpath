@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/konpe/OneDrive/Έγγραφα/workspace/eclipse_workspace/ExternalLibraries/jung/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
